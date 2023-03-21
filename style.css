@@ -42,38 +42,19 @@ body {
   align-items:center;
   justify-content: space-between;
 }
-/*
-.wrapper {
-  display: flex;
-  justify-content:space-between;
-  align-content:flex-end;
-  padding: 25px;
-  color:black;
-  font-size: 14px;
-}
-*/
+
 .site-navigation {
   list-style: none;
   font-size: 16px;
-  
   display: flex;
   justify-content: center;
-
   gap: 15px;
-  
-
 }
 .site-logo {
   font-weight: 900;
   margin-left: 35px;
-  
-  /*Почему не работает? */
 }
-.burger-menu {
-  margin-right: 35px;
   
-  
-}
 main, footer {
   color:black;
 }
